@@ -1,0 +1,3 @@
+[deploy]
+region = "us-west2"
+startCommand = "node server.js"
